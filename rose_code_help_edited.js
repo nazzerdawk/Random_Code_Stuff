@@ -1,5 +1,6 @@
 /*
-	An edited version of rose_code_help_original.js. See original for conext. 
+	An edited version of rose_code_help_original.js. See original for context at 
+		https://github.com/nazzerdawk/Random_Code_Stuff/blob/main/rose_code_help_original.js
 
 */
 
