@@ -1,3 +1,9 @@
+/*
+	An edited version of rose_code_help_original.js. See original for conext. 
+
+*/
+
+
 
 <html>
    <body>
@@ -11,7 +17,7 @@
 			Your issues are all in this block here:
 		
 		
-	        var Input = prompt("Enter 5 homework scores separated by a space");
+	    var Input = prompt("Enter 5 homework scores separated by a space");
             var grade = [];
             length = Input.length;   
 								Two things: 
@@ -30,7 +36,7 @@
 		
             var totalScore;
  
-            for (var i=0; i < length; i++) {		Last thing:
+            for (var i=0; i < length; i++) {		         Last thing:
 				grade.push(parseInt(Input[i])); <---This needs the radix for the parseInt() function. "parseInt(Input[i]))" should be "parseInt(Input[i],10))". This lets it know which number system you are parsing by.
 				totalScore += grade[i];
 				var avg = (totalScore/grade.length);
