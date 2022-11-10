@@ -1,3 +1,10 @@
+//This is a file that one of my friends wrote for a class in programming. She asked me for help with it. This was my first time working with JS at all, 
+///but I was able to figure my way around and not only fix it but also write up fairly simple (but not totally complete) explanations for her about 
+///what changes. See rose_code_help_edited.js for the edited version I plan to send her once she completes the assignment herself.
+
+///(I told her I won't give her the working code I wrote until she solves the assignment, which was to write a script that will accept input for 5 
+///homework scores and output the averages and letter grades for the averages.)
+
 
 <html>
    <body>
